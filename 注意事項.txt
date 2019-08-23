@@ -1,0 +1,1 @@
+vista 要把 msvbvm50.dll 複製到 \windows\system32

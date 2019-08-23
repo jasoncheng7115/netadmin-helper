@@ -1,0 +1,16 @@
+[History]
+B0=NetAdmin/Mod_WMI_LDAP/WMI_Computer_System_Information
+B1=NetAdmin/Mod_WMI_LDAP/WMI_Computer_Environment
+B2=NetAdmin/Mod_WMI_LDAP
+B3=NetAdmin/Frm_Main/Tvw1_nodeCheck
+B4=NetAdmin/Frm_Main/Form_Resize
+B5=NetAdmin/Frm_Main/Get_Computers_From_Local
+B6=NetAdmin/Mod_CMI/CMI_Computer_VideoControllerResolution
+B7=NetAdmin/Frm_Main
+B8=NetAdmin/Mod_CMI
+B9=NetAdmin/Mod_WMI_Action
+B10=NetAdmin/Mod_WMI_LDAP/WMI_Service_Create
+B11=NetAdmin/Frm_Manager_Process/Show_Process
+B12=NetAdmin/Mod_NameDefine
+B13=NetAdmin/Frm_Manager_Process
+B14=NetAdmin/Mod_WMI_LDAP/ADSI_Computer_List

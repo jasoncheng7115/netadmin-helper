@@ -1,0 +1,93 @@
+[Root]
+Most Recent Package=Dep File 1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=E:\Source\vb\netadmin
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+
+[Package|Dep File 1|Files Released]
+
+[Package|Dep File 1|Missing Dependency Information]
+E:\Source\vb\netadmin\vbalSbar6.ocx=
+E:\Source\vb\netadmin\vbalCmdBar6.ocx=
+E:\Source\vb\netadmin\vbalTreeView6.ocx=
+E:\Source\vb\netadmin\vbalSGrid6.ocx=
+C:\WINXP\system32\vbalIml6.ocx=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINXP\system32\scrrun.dll=
+
+[Package|Dep File 1|Files Added]
+
+[Package|Dep File 1|Files Removed]
+
+[Package|Dep File 1|Files In Project]
+E:\Source\vb\netadmin\AD_netadmin.exe=Yes
+C:\WINXP\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINXP\system32\Vb6cht.dll=Yes
+C:\WINXP\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINXP\system32\scrrncht.dll=Yes
+C:\WINXP\system32\vbalIml6.ocx=Yes
+E:\Source\vb\netadmin\vbalSGrid6.ocx=Yes
+E:\Source\vb\netadmin\vbalTreeView6.ocx=Yes
+C:\WINXP\system32\MSWINSCK.OCX=Yes
+C:\WINXP\system32\WINSKCHT.DLL=Yes
+E:\Source\vb\netadmin\vbalCmdBar6.ocx=Yes
+E:\Source\vb\netadmin\vbalSbar6.ocx=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=
+
+[Package|Dep File 1|Install Locations]
+E:\Source\vb\netadmin\AD_netadmin.exe=$(AppPath)
+C:\WINXP\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINXP\system32\Vb6cht.dll=$(WinSysPath)
+C:\WINXP\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINXP\system32\scrrncht.dll=$(WinSysPath)
+C:\WINXP\system32\vbalIml6.ocx=$(WinSysPath)
+E:\Source\vb\netadmin\vbalSGrid6.ocx=$(WinSysPath)
+E:\Source\vb\netadmin\vbalTreeView6.ocx=$(WinSysPath)
+C:\WINXP\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINXP\system32\WINSKCHT.DLL=$(WinSysPath)
+E:\Source\vb\netadmin\vbalCmdBar6.ocx=$(WinSysPath)
+E:\Source\vb\netadmin\vbalSbar6.ocx=$(WinSysPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=
+
+[Package|Dep File 1|DepFile]
+DepCabFile=AD_netadmin.CAB
+DepCabRun=AD_netadmin.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=E:\Source\vb\netadmin
+ProjectFolder=E:\Source\vb\netadmin
+ServerSideCab=
+File1=E:\Source\vb\netadmin\AD_netadmin.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

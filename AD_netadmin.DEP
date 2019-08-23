@@ -1,0 +1,54 @@
+[Version]
+Version=1.0.0.3
+
+[AD_netadmin.exe <0404>]
+Dest=$(AppPath)
+Date=2005/11/1
+Time=18:11
+Version=1.0.0.3
+CABFilename=AD_netadmin.CAB
+CABINFFile=AD_netadmin.INF
+Uses1=msvbvm60.dll
+Uses2=OLEAUT32.DLL
+Uses3=OLEPRO32.DLL
+Uses4=ASYCFILT.DLL
+Uses5=STDOLE2.TLB
+Uses6=COMCAT.DLL
+Uses7=Vb6cht.dll
+Uses8=scrrun.dll
+Uses9=vbalIml6.ocx
+Uses10=vbalSGrid6.ocx
+Uses11=vbalTreeView6.ocx
+Uses12=MSWINSCK.OCX
+Uses13=vbalCmdBar6.ocx
+Uses14=vbalSbar6.ocx
+
+[vbalIml6.ocx <0404>]
+Dest=$(WinSysPath)
+Date=2003/4/1
+Time=07:36
+Version=2.0.0.1
+
+[vbalSGrid6.ocx <0404>]
+Dest=$(WinSysPath)
+Date=2004/7/31
+Time=01:35
+Version=2.0.0.41
+
+[vbalTreeView6.ocx <0404>]
+Dest=$(WinSysPath)
+Date=2004/2/28
+Time=21:05
+Version=1.0.0.5
+
+[vbalCmdBar6.ocx <0404>]
+Dest=$(WinSysPath)
+Date=2004/2/1
+Time=20:09
+Version=1.0.0.23
+
+[vbalSbar6.ocx <0404>]
+Dest=$(WinSysPath)
+Date=2002/12/17
+Time=14:54
+Version=1.0.0.15

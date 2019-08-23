@@ -31,10 +31,10 @@
 
 ## 軟體畫面預覽
 
-![主視窗](https://raw.githubusercontent.com/jasoncheng7115/netadminhelper/master/images/netadmin3.png)
+![主視窗](https://raw.githubusercontent.com/jasoncheng7115/netadmin-helper/master/images/netadmin3.png)
 
 
-![軟體管理](https://raw.githubusercontent.com/jasoncheng7115/netadminhelper/master/images/netadmin2.png)
+![軟體管理](https://raw.githubusercontent.com/jasoncheng7115/netadmin-helper/master/images/netadmin2.png)
 
 
 

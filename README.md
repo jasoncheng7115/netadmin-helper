@@ -1,10 +1,10 @@
-# NetadminHelper / AD 網域管理幫手
+# Netadmin Helper / AD 網域管理幫手
 
 這是一支在 2003 年時為了解決 AD 電腦管理需求，利用閒暇時段以 Visual Basic 6 所開發的工具，主要使用了 Visual Basic、ADSI、WMI... 等技術。
 
 視覺化元件採用了 vbccelerator (http://www.vbaccelerator.com/) 所開發的 CommandBar、StatusBar、TreeView、PopMenu、SGrid。
 
-由於開發工具老舊，此程式很早前已經沒有繼續維護，最後測試可以運作的作業系統是在 Windows 7 專業版。
+由於開發工具老舊，此程式很早前已經沒有繼續維護，最後測試可以運作的系統是在 Windows 7 專業版。
 
 -----
 
@@ -21,8 +21,12 @@
 * 遠端執行命令
 * 遠端變更本機使用者密碼
 
+-----
 
+## 使用方式
 
+*理論上*全部下載後，執行 netadmin.exe 應可運作。
+  
 -----
 
 ## 軟體畫面預覽

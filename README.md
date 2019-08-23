@@ -4,7 +4,7 @@
 
 視覺化元件採用了 vbccelerator (http://www.vbaccelerator.com/) 所開發的 CommandBar、StatusBar、TreeView、PopMenu、SGrid。
 
-由於開發工具老舊，此程式很早前已經沒有繼續維護，最後測試可以運作的系統是在 Windows 7 專業版。
+由於開發工具老舊，此程式很早前已經沒有繼續維護，最後測試可以運作的系統是在 `Windows 7 專業版`。
 
 -----
 

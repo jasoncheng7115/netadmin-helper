@@ -1,4 +1,4 @@
-# Netadmin Helper / AD 網域管理幫手
+# Netadmin Helper / AD 網域電腦管理幫手
 
 這是一支在 2003~2005 年時為了解決 AD 電腦管理需求，利用閒暇時段以 Visual Basic 6 所開發的工具，主要使用了 Visual Basic、ADSI、WMI... 等技術。
 

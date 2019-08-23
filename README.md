@@ -26,7 +26,14 @@
 ## 使用方式
 
 **理論上**全部下載後，執行 netadmin.exe 應可運作。
+
+-----
+
+## 相關文章
   
+[專案分享]開源網域電腦管理工具 - Netadmin-Helper
+https://blog.jason.tools/2019/08/netadmin-helper.html
+
 -----
 
 ## 軟體畫面預覽
